@@ -245,7 +245,7 @@ section .title::after{
     justify-content: flex-start;
   }
   .skill-boxes li{
-    border: 1px solid crimson;
+    border: 1px solid grey;
     border-radius: 5px;
     padding: 6px;
     text-align: left;
